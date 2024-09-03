@@ -20,11 +20,12 @@ Due to the high rate of social and mental health cases globally, getting access 
    
 Getting access to a medical doctor is getting increasingly difficult and expensive in Nigeria today, coupled with exodus of doctors to abroad where they are paid better for theor services. Due to the high rates of deaths occurring daily, it is crucial now to make the right, medical information accessible to the public and patients. If people can get access to the same information used by doctors on time, some deaths could be averted. Hence this was why this project was done. The project involved automation of the reference book used by physicians and pharmacists globally. 
 This solution is an AI-powered chatbot not meant to replace personal consultation with a qualified physician, pharmacist, or other health care professional, but to provide medical information for the general public especially the consumers. Basically, it offers professional medical information and knowledge on the following aspects of diseases :
+
 - the causes of diseases,
   
--the evaluation of diseases - how to know if you have a particular disease as in the signs and symptoms to watch out for, 
+- the evaluation of diseases - how to know if you have a particular disease as in the signs and symptoms to watch out for, 
 
--the treatment medical doctors give their patients, as this knowledge can be used by the patients to help themselves (as in especially places where access to medical facility is challenging), before they can get the attention of a medical doctor. 
+- the treatment medical doctors give their patients, as this knowledge can be used by the patients to help themselves (as in especially places where access to medical facility is challenging), before they can get the attention of a medical doctor. 
 With the information provided via this app, people’s lives could be saved to a reasonable degree.
 
 
