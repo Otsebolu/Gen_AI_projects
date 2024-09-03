@@ -2,10 +2,10 @@
 Below is the description of the list of Generative AI/LLMs projects I recently worked on and pushed to Github.
 
 
-1) AI-powered Bank Customer Service Assistant based on Llama 3.0 model
+1) AI-powered Bank Customer Service Assistant, based on Llama 3.0 model. This is the Bank_customer_service.ipynb file.
 I built an AI-powered assistant for customer service care in Retail Banking. It is an app that engages customers in conversational interactions. It automates routine tasks such as customer inquiries, complaints and account management, freeing up human resources to focus on higher-value activities. To validate this innovation, one of the top three big banks in Nigeria was used as a case study. My innovative solution was validated by comparing its performance versus that of the performance of the app used by the top bank for such similar customer service and care operations. I am a customer of this bank, hence I use the bank’s app. The bank’s app is a popular one around here, I have tested it, it is inefficient. I do not want to mention the name of the bank for obvious reasons.
 
-2) AI-powered Social and Mental Health Counsellor/Therapist innovation based on Llama 3.0 model
+2) AI-powered Social and Mental Health Counsellor/Therapist innovation based on Llama 3.0 model. This is the 
  Due to the high rate of social and mental health cases globally, getting access to qualified psychologists and counselling is sometimes challenging. To address this, I developed an innovative solution that allows conversations between the app, an AI-powered counsellor and you, the client. The app provides counselling and therapy to societal challenges, as well as mental health services/advice. 33 social and mental health topics such as 💑 Relationships, 😟 Anxiety, 😔 Depression, 🤗 Intimacy, 👨‍👩‍👧‍👦 Family Conflict, and so on, are captured in the app.
 
 3) AI-powered Health and Medical Access solution based on mistralai/Mixtral-8x7B-Instruct-v0.1 model. This is the Medical_Patient_Assistant_(3).ipynb file
