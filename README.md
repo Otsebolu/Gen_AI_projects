@@ -19,7 +19,8 @@ This solution is an AI-powered chatbot not meant to replace personal consultatio
 -the treatment medical doctors give their patients, as this knowledge can be used by the patients to help themselves (as in especially places where access to medical facility is challenging), before they can get the attention of a medical doctor. 
 With the information provided via this app, people’s lives could be saved to a reasonable degree.
 
-4) AI-powered Fraud Detection solution based on google/flan-t5-large model.  This is the 
+4) AI-powered Fraud Detection solution based on google/flan-t5-large model. This is the "financial_fraud_detection_llm_rag_flan_t5.ipynb" file
+   
 This solution focuses on helping organisations to detect fraud cases.
 This solution when supplied with data of varying sources be it: historical, financial records, reports, or contextual data, can detect if such data or information is of fraudulent nature or not. This AI assistant can alert financial institutions when unusual activity occurs
 
